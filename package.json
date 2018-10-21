@@ -1,0 +1,15 @@
+{
+  "name": "image-to-timelapse",
+  "version": "1.0.0",
+  "description": "convert a list of images to a timelapse video",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@missingmarshall",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.16",
+    "videoshow": "^0.1.11"
+  }
+}
